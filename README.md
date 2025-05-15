@@ -36,8 +36,8 @@ Este projeto demonstra como usar o **OAuth 2.0 Device Flow** com **Keycloak** em
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/auth-cli-device-flow.git
-cd auth-cli-device-flow
+git clone https://github.com/lucianocarreiro/keycloak-device-auth-grant.git
+cd keycloak-device-auth-grant
 ```
 ### 2. Suba o ambiente com Keycloak
 
