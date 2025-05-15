@@ -38,7 +38,7 @@ Este projeto demonstra como usar o **OAuth 2.0 Device Flow** com **Keycloak** em
 ```bash
 git clone https://github.com/seu-usuario/auth-cli-device-flow.git
 cd auth-cli-device-flow
-
+```
 ### 2. Suba o ambiente com Keycloak
 
 ```bash
