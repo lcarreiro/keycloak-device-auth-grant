@@ -4,7 +4,7 @@ Este projeto demonstra como usar o **OAuth 2.0 Device Flow** com **Keycloak** em
 
 ---
 
-## 📦 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - [NestJS](https://nestjs.com/)
 - [Keycloak](https://www.keycloak.org/)
@@ -14,7 +14,7 @@ Este projeto demonstra como usar o **OAuth 2.0 Device Flow** com **Keycloak** em
 
 ---
 
-## 🚀 O que este projeto faz?
+## O que este projeto faz?
 
 - Inicia um **Device Flow OAuth 2.0** com o Keycloak.
 - Exibe o link de autenticação e o código para o usuário autenticar em outro dispositivo.
@@ -23,7 +23,7 @@ Este projeto demonstra como usar o **OAuth 2.0 Device Flow** com **Keycloak** em
 
 ---
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 - [Node.js](https://nodejs.org/) (v18 ou superior)
 - [Docker](https://www.docker.com/)
@@ -31,7 +31,7 @@ Este projeto demonstra como usar o **OAuth 2.0 Device Flow** com **Keycloak** em
 
 ---
 
-## 🧪 Como rodar o projeto
+## Como rodar o projeto
 
 ### 1. Clone o repositório
 
@@ -109,7 +109,7 @@ Access Token: eyJhbGciOi...
 
 ---
 
-## 💡 Exemplos de uso
+## Exemplos de uso
 
 * CLIs que precisam de login sem abrir navegador.
 * Chatbots (Telegram, WhatsApp) que precisam autenticar usuários.
@@ -117,7 +117,7 @@ Access Token: eyJhbGciOi...
 
 ---
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 src/
@@ -131,15 +131,15 @@ docker-compose.yml             # Sobe o Keycloak
 
 ---
 
-## ✅ Próximos passos
+## Próximos passos
 
-* 🔐 Salvar `access_token` localmente
-* ♻️ Suporte a `refresh_token`
-* 📡 Chamada de API protegida usando o token
-* 🤖 Integração com chatbot (Telegram, WhatsApp)
+* Salvar `access_token` localmente
+* Suporte a `refresh_token`
+* Chamada de API protegida usando o token
+* Integração com chatbot (Telegram, WhatsApp)
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
-Feito por Luciano Carreiro com NestJS e Keycloak 💙
+Feito por Luciano Carreiro com NestJS e Keycloak
